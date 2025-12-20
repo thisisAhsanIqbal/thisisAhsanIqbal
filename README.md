@@ -1,5 +1,9 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thisisAhsanIqbal&color=blue&style=flat-square" alt="visitor counter" />
+</p>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,nextjs,wordpress,py,selenium" height="60" alt="tech stack" />
 </div>
