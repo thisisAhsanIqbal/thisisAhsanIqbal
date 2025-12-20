@@ -1,8 +1,11 @@
+
+
 <h1 align="center">Hey 👋 What's Up?</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thisisAhsanIqbal&color=blue&style=flat-square" alt="visitor counter" />
 </p>
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,nextjs,wordpress,py,selenium" height="60" alt="tech stack" />
@@ -31,9 +34,7 @@
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thisisAhsanIqbal/thisisAhsanIqbal/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thisisAhsanIqbal/thisisAhsanIqbal/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thisisAhsanIqbal/thisisAhsanIqbal/output/github-contribution-grid-snake.svg">
-  </picture>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisisAhsanIqbal&theme=tokyonight&area=true&hide_border=false" width="100%" alt="activity graph" />
+</div>
 </div>
