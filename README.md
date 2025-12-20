@@ -17,12 +17,18 @@
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=thisisAhsanIqbal&theme=dracula" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=thisisAhsanIqbal&theme=dracula" height="150" alt="trophy graph" />
+
+![Streak Graph](https://streak-stats.demolab.com?user=thisisAhsanIqbal&theme=dracula&hide_border=false)
+![Trophy Graph](https://github-profile-trophy.vercel.app?username=thisisAhsanIqbal&theme=dracula&column=-1&row=1)
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thisisAhsanIqbal/thisisAhsanIqbal/output/pacman-contribution-graph.svg" alt="pacman contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thisisAhsanIqbal/thisisAhsanIqbal/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thisisAhsanIqbal/thisisAhsanIqbal/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thisisAhsanIqbal/thisisAhsanIqbal/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
